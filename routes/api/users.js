@@ -3,7 +3,7 @@ const router = express.Router();
 const gravatar = require('gravatar');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
-const keys = require('../../config/keys');//mongo plus jwtsecret
+const keys = require('../../config/keys');
 const passport = require('passport');
 
 // Load Input Validation
@@ -18,7 +18,7 @@ const User = require('../../models/User');
 // @access  Public
 router.get('/test', (req, res) => res.json({ msg: 'Users Works' }));
 
-// @route   POST api/users/register
+// @route   GET api/users/register
 // @desc    Register user
 // @access  Public
 router.post('/register', (req, res) => {
