@@ -37,4 +37,16 @@ cd client
 npm run build
 ```
 
-## App Info
+## App Info\
+[singin](https://github.com/jinicode/Connect/blob/master/images/singin.png)\
+[social](https://github.com/jinicode/Connect/blob/master/images/social.png)\
+[createprofile](https://github.com/jinicode/Connect/blob/master/images/createprofile.png)\
+[dashboard](https://github.com/jinicode/Connect/blob/master/images/dashboard.png)\
+[developers](https://github.com/jinicode/Connect/blob/master/images/developers.png)\
+[education](https://github.com/jinicode/Connect/blob/master/images/education.png)\
+[experience](https://github.com/jinicode/Connect/blob/master/images/experience.png)\
+[pagenotfound](https://github.com/jinicode/Connect/blob/master/images/pagenotfound.png)\
+[posts](https://github.com/jinicode/Connect/blob/master/images/posts.png)\
+[profile](https://github.com/jinicode/Connect/blob/master/images/profile.png)\
+[social](https://github.com/jinicode/Connect/blob/master/images/social.png)
+
