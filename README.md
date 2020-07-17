@@ -38,6 +38,16 @@ npm run build
 ```
 
 ## App Info\
+<p align="center">
+  <img src="https://github.com/jinicode/Connect/blob/master/singin.png" width="350" title="hover text">
+  <img src="https://github.com/jinicode/Connect/blob/master/social.png" width="350" alt="accessibility text">
+ <img src="https://github.com/jinicode/Connect/blob/master/createprofile.png" width="350" title="hover text">
+  <img src="https://github.com/jinicode/Connect/blob/master/dashboard.png" width="350" alt="accessibility text">
+ <img src="https://github.com/jinicode/Connect/blob/master/dashboard.png" width="350" title="hover text">
+  <img src="https://github.com/jinicode/Connect/blob/master/developers.png" width="350" alt="accessibility text">
+ <img src="https://github.com/jinicode/Connect/blob/master/education.png" width="350" title="hover text">
+  <img src="https://github.com/jinicode/Connect/blob/master/experience.png" width="350" alt="accessibility text">
+</p>
 [singin](https://github.com/jinicode/Connect/blob/master/singin.png)\
 [social](https://github.com/jinicode/Connect/blob/master/social.png)\
 [createprofile](https://github.com/jinicode/Connect/blob/master/createprofile.png)\
