@@ -38,15 +38,15 @@ npm run build
 ```
 
 ## App Info
-(https://github.com/jinicode/Connect/blob/master/images/singin.png)
-(https://github.com/jinicode/Connect/blob/master/images/social.png)
-(https://github.com/jinicode/Connect/blob/master/images/createprofile.png)
-(https://github.com/jinicode/Connect/blob/master/images/dashboard.png)
-(https://github.com/jinicode/Connect/blob/master/images/developers.png)
-(https://github.com/jinicode/Connect/blob/master/images/education.png)
-(https://github.com/jinicode/Connect/blob/master/images/experience.png)
-(https://github.com/jinicode/Connect/blob/master/images/pagenotfound.png)
-(https://github.com/jinicode/Connect/blob/master/images/posts.png)
-(https://github.com/jinicode/Connect/blob/master/images/profile.png)
-(https://github.com/jinicode/Connect/blob/master/images/social.png)
+[](https://github.com/jinicode/Connect/blob/master/images/singin.png)
+[](https://github.com/jinicode/Connect/blob/master/images/social.png)
+[](https://github.com/jinicode/Connect/blob/master/images/createprofile.png)
+[](https://github.com/jinicode/Connect/blob/master/images/dashboard.png)
+[](https://github.com/jinicode/Connect/blob/master/images/developers.png)
+[](https://github.com/jinicode/Connect/blob/master/images/education.png)
+[](https://github.com/jinicode/Connect/blob/master/images/experience.png)
+[](https://github.com/jinicode/Connect/blob/master/images/pagenotfound.png)
+[](https://github.com/jinicode/Connect/blob/master/images/posts.png)
+[](https://github.com/jinicode/Connect/blob/master/images/profile.png)
+[](https://github.com/jinicode/Connect/blob/master/images/social.png)
 
